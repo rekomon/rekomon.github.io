@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abcrize.ui", "abcrize.ui\abcrize.ui\abcrize.ui.csproj", "{3FBD9668-8CA4-480D-BBC8-5FF92C27E4B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abcrize.ui.Client", "abcrize.ui\abcrize.ui.Client\abcrize.ui.Client.csproj", "{126685FB-9F3C-4B5A-AF59-1D75D93B22A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FBD9668-8CA4-480D-BBC8-5FF92C27E4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBD9668-8CA4-480D-BBC8-5FF92C27E4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBD9668-8CA4-480D-BBC8-5FF92C27E4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBD9668-8CA4-480D-BBC8-5FF92C27E4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126685FB-9F3C-4B5A-AF59-1D75D93B22A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126685FB-9F3C-4B5A-AF59-1D75D93B22A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126685FB-9F3C-4B5A-AF59-1D75D93B22A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126685FB-9F3C-4B5A-AF59-1D75D93B22A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D35EBE92-F9D0-4026-8751-F4971F0F4E68}
+	EndGlobalSection
+EndGlobal
